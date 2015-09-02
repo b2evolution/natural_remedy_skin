@@ -258,3 +258,15 @@ form.bComment textarea {
 	width: 97%;
 	resize: vertical;
 }
+.image_block {
+	width: auto;
+	text-align: left !important;
+}
+div.image_block a img {
+	text-align: left !important;
+}
+.powered_by img {
+	border-radius: 4px;
+	background-color: white;
+	padding: 5px;
+}
