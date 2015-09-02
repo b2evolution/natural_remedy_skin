@@ -1,4 +1,4 @@
-# natural_remedy_skin
+# Natural Remedy Skin
 Natural Remedy v1.1 skin for b2evolution CMS.
 
 <img src="skinshot.jpg"/>
