@@ -1,6 +1,5 @@
 # Natural Remedy Skin
-Natural Remedy v1.1 skin for b2evolution CMS.
->>>>>>> origin/master
+Natural Remedy v1.2 skin for b2evolution CMS.
 
 <img src="skinshot.jpg"/>
 <img src="022_naturalremedyblogtheme.png"/>
