@@ -12,13 +12,6 @@ if( !defined('EVO_MAIN_INIT') ) die( 'Please, do not access this page directly.'
 
 ?>
 <div id="sidebar">
-
-    <?php if ( true /* change to false to hide the search box */ ) { ?>
-		  <form action="<?php $Blog->gen_blogurl() ?>" method="get" class="search">
-			<input name="s" size="25" value="search..." class="form_text_input" type="text" />
-		  </form>
-				<?php } ?>
-	<ul>
 	<?php
 		// ------------------------- "Sidebar" CONTAINER EMBEDDED HERE --------------------------
 		// Display container contents:

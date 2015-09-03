@@ -274,3 +274,13 @@ div.image_block a img {
 	background-color: white;
 	padding: 5px;
 }
+/* v1.2 FIXES */
+.sitewide_header {
+	margin-bottom: 0px !important;
+}
+.widget {
+	list-style-type: none;
+}
+#sidebar li ul li {
+	list-style-type: inherit;
+}
