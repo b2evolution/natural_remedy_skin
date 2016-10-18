@@ -13,7 +13,7 @@ if( !defined('EVO_MAIN_INIT') ) die( 'Please, do not access this page directly.'
  */
 class natural_remedy_Skin extends Skin
 {
-	var $version = '1.1';
+	var $version = '1.2.1';
 
     /**
 	 * Get default name for the skin.
